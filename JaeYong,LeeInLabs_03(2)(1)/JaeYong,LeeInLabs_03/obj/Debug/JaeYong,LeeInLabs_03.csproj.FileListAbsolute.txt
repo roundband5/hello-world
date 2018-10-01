@@ -1,0 +1,30 @@
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe.config
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.pdb
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csprojResolveAssemblyReference.cache
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Form1.resources
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Properties.Resources.resources
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.GenerateResource.Cache
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.CoreCompileInputs.cache
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.exe
+N:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.pdb
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe.config
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.pdb
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csprojAssemblyReference.cache
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Form1.resources
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Properties.Resources.resources
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.GenerateResource.cache
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.CoreCompileInputs.cache
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.exe
+W:\2018 F CNIT155\InLab\JaeYong,LeeInLabs_03\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.pdb
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe.config
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.exe
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\bin\Debug\JaeYong,LeeInLabs_03.pdb
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csprojAssemblyReference.cache
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Form1.resources
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong_LeeInLabs_03.Properties.Resources.resources
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.GenerateResource.cache
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.csproj.CoreCompileInputs.cache
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.exe
+W:\CNIT155\In_Labs\EdwardChang InLab04\JaeYong,LeeInLabs_03(2)(1)\JaeYong,LeeInLabs_03\obj\Debug\JaeYong,LeeInLabs_03.pdb
